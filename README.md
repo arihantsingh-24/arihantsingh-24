@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 👨‍💻 All of my projects are available at [https://arihantsingh-24.netlify.app/](https://arihants-world.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://arihants-world.vercel.app/)
 
 - 💬 Ask me about **React, Vue, JAVA, DSA**
 
