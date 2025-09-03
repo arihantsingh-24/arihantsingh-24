@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 👨‍💻 All of my projects are available at [https://arihantsingh-24.netlify.app/](https://arihantsingh-24.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arihantsingh-24.netlify.app/](https://arihants-world.vercel.app/)
 
-- 💬 Ask me about **react, Vue, JAVA, DSA**
+- 💬 Ask me about **React, Vue, JAVA, DSA**
 
 - 📫 How to reach me **arihant.singh0907@gmail.com**
 
