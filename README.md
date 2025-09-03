@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arihant.singh0907@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z-iy5LcpdIHR6NVs6pPgVr4IlCTaSAbW/view?usp=sharing](https://drive.google.com/file/d/1Z-iy5LcpdIHR6NVs6pPgVr4IlCTaSAbW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NQW4LhxH1M8NSihmQGJHhHRocaPp8sM-/view?usp=sharing)
 
 - ⚡ Fun fact **You'll never get bored with me**
 
